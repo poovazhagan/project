@@ -1,0 +1,61 @@
+.background {
+    background-image: url(../project/image/01.jpg);
+    background-position: center;
+    height: 700px;
+    width: 100%;
+    border: 2px solid wheat;
+
+
+}
+
+.header {
+    display: flex;
+    color: white;
+    list-style: none;
+    gap: 20px;
+
+
+}
+
+.para {
+    font-family: "Jost", sans-serif;
+    line-height: 1.2;
+    font-weight: 500;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+.line {
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+
+.btn {
+    text-align: center;
+    background-color: #E61818;
+    font-size: 18px;
+    color: #fff;
+    height: 70px;
+    width: 240px;
+    margin-left: 45%;
+    border: none;
+}
+
+.area {
+    background-color: #F2F4F8;
+    height: 600px;
+    width: 100%;
+    border: 2px solid wheat;
+}
+
+.head {
+    font-size: 41px;
+    display: block;
+    line-height: 1.2;
+    margin-bottom: 12px;
+    padding-left: 45px;
+    position: relative;
+}
