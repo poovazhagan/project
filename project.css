@@ -4,6 +4,8 @@
     height: 700px;
     width: 100%;
     border: 2px solid wheat;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 
 }
@@ -96,9 +98,23 @@
 }
 
 .details {
-    height: 700px;
+    height: 600px;
     width: 100%;
     border: 1px solid wheat;
-    background-image: url(../website/images/center.webp);
+    background-image: url(./image/center.webp);
     background-position: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.box2 {
+    height: 500px;
+    width: 100%;
+    border: 1px solid;
+    background-color: #EFFDFF;
+
+
 }
