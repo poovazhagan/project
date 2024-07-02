@@ -1,0 +1,440 @@
+.maincontend {
+    width: 100%;
+    font-family: "Roboto", sans-serif;
+}
+
+.contend {
+    height: 820px;
+    width: 100%;
+    padding-top: 20px;
+    background-image: url(../colorlib02/images/01.jpg);
+    background-position: center;
+    background-position: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.header {
+    height: 40px;
+    width: 80%;
+    background-color: #f9f9ff;
+    display: flex;
+    padding: 30px;
+    margin-left: 90px;
+    gap: 375px;
+    font-size: small;
+    font-family: "Roboto", sans-serif;
+}
+
+.unorderlist {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+
+}
+
+.contend01 {
+    padding-top: 220px;
+    text-align: center;
+    color: #fff;
+}
+
+.maincontend2 {
+    height: 620px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.section2 {
+    width: 45%;
+}
+
+
+
+.section201 {
+    height: 500px;
+    width: 35%;
+    text-align: justify;
+    line-height: 20px;
+    font-size: 14px;
+    word-spacing: 5px;
+    margin-top: 110px;
+}
+
+.button01 {
+    height: 35px;
+    width: 130px;
+    border: none;
+    color: #131230;
+    background-color: #ffb606;
+    font-weight: 700;
+}
+
+.contend02 {
+    height: 1310px;
+    width: 100%;
+    background-image: url(../colorlib02/images/food-bg.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+    display: grid;
+    justify-content: space-around;
+    margin-top: 100px;
+
+}
+
+.box01 {
+    height: 250px;
+    width: 320px;
+}
+
+.para {
+    color: #777;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.mainbox {
+    height: 992px;
+    width: 1100px;
+}
+
+.mainbox01 {
+    display: flex;
+    gap: 35px;
+    margin-top: 35px;
+}
+
+.mainbox02 {
+    display: flex;
+    gap: 35px;
+    margin-top: 35px;
+
+}
+
+.box {
+    height: 385px;
+    width: 220px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 30px;
+    background: #f9f9ff;
+}
+
+.total {
+    display: flex;
+    text-align: justify;
+    justify-content: space-around;
+
+}
+
+.head01 {
+    color: #131230;
+    font-family: "Playfair Display", serif;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.amount {
+    color: #ffb606;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    padding-top: 20px;
+}
+
+.contend03 {
+    height: 400px;
+    width: 100%;
+    background-image: url(../colorlib02/images/reservation-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    padding-top: 1px;
+}
+
+.con01 {
+    margin-top: 140px;
+    position: relative;
+    width: 100%;
+    line-height: 50px;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+
+
+.head02 {
+    color: #fff;
+    font-family: "Playfair Display", serif;
+    font-size: 42px;
+    font-weight: 700;
+}
+
+.head03 {
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+
+.contend05 {
+    height: 450px;
+    width: 100%;
+    background-image: url(../colorlib02/images/testimonial-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    margin: auto;
+    padding-top: 60px;
+    margin-top: 150px;
+}
+
+.black {
+    font-weight: 700;
+    color: #131230;
+    font-style: italic;
+    font-size: 34px;
+    line-height: 37px;
+}
+
+.yello {
+    color: #ffb606;
+    font-style: italic;
+    font-size: 34px;
+    line-height: 37px;
+}
+
+.wieght {
+    color: #fff;
+    font-style: italic;
+    font-size: 34px;
+    line-height: 37px;
+    margin: 95px;
+}
+
+.book {
+    color: #131230;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+.footer01 {
+    height: 500px;
+    width: 100%;
+    background-image: url(../colorlib02/images/table-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    margin: auto;
+    color: #fff;
+}
+
+.put {
+    display: flex;
+    border-radius: 0 5px 5px 0;
+    border: none;
+}
+
+.grit {
+    justify-content: space-around;
+    display: flex;
+}
+
+.footer02 {
+    width: 100%;
+    border: 1px solid;
+    background-color: #131230;
+    padding: 130px 0;
+    color: #777;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+
+}
+
+.footmain {
+    width: 1200px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 70px;
+}
+
+.food01 {
+    text-align: justify;
+    line-height: 19px;
+}
+
+.food02 {
+    text-align: justify;
+    line-height: 19px;
+}
+
+.food03 {
+    text-align: justify;
+    line-height: 19px;
+
+}
+
+.second {
+    color: #ffb606;
+    font-size: 20px;
+    font-family: "Playfair Display", serif;
+}
+
+
+
+
+.footer03 {
+    width: 100%;
+    background: #0d0d27;
+    display: flex;
+    gap: 85PX;
+    justify-content: space-around;
+    color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.end {
+    width: 40%;
+    font-style: italic;
+    font-size: 15px;
+    padding-top: 8px;
+}
+
+.end02 {
+
+    width: 26%;
+    font-style: italic;
+    font-size: 15px;
+    padding-top: 8px;
+    display: flex;
+    gap: 20px;
+}
+
+.food001 {
+    width: 380px;
+    text-align: center;
+}
+
+.food {
+    width: 100%;
+    padding: 130px 0px;
+    padding-right: 0px;
+    padding-left: 80px;
+    display: flex;
+    gap: 40px;
+}
+
+.contend04 {
+    width: 100%;
+}
+
+.cont04 {
+    color: #777;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.cont41 {
+    text-align: center;
+    margin: auto;
+}
+
+
+.cont42 {
+    width: 90%;
+    display: flex;
+    padding: 60px 0px 40px 100px;
+    margin-right: 200px;
+}
+
+.cont004 {
+    width: 450px;
+    gap: 40px;
+    color: #777;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.conthead {
+    color: #131230;
+    font-family: "Playfair Display", serif;
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: -15px;
+}
+
+.contbody {
+    width: 370px;
+    line-height: 19px;
+    word-spacing: 2px;
+    margin-left: 75px;
+}
+
+.book01 {
+    color: #131230;
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.cont43 {
+    width: 90%;
+    display: flex;
+    padding: 60px 0px 40px 100px;
+    margin-right: 200px;
+}
+
+.foodh {
+    color: #131230;
+    font-family: "Playfair Display", serif;
+    text-transform: capitalize;
+    font-size: 20px !important;
+    font-weight: 700;
+}
+
+.foodpara {
+    color: #777;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.more {
+    color: #131230;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 550;
+}
+
+.alli {
+    text-align: justify;
+    width: 235px;
+    padding: 30px;
+}
