@@ -141,9 +141,62 @@ ul {
     border: 1px solid;
 }
 
+
+
 .page6 {
     height: 550px;
     width: 100%;
     border: 1px solid;
     background-color: #ffffff;
+}
+
+.agents {
+    border: 1px solid;
+    height: 150px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+.agent {
+    border: 1px solid red;
+    display: flex;
+}
+
+.agents_details {
+    height: 360px;
+    width: 250px;
+    border: 1px solid;
+}
+
+.page7 {
+    border: 1px solid;
+    height: 450px;
+    width: 100%;
+    display: flex;
+
+}
+
+.btn2 {
+    background: #00AEFF;
+    padding: 10px 30px;
+    border: 0;
+    color: #fff;
+    cursor: pointer;
+    font-size: 18px;
+    text-transform: capitalize;
+    font-weight: 400;
+    border-radius: 4px;
+}
+
+.sub {
+    border: 1px solid;
+    height: 433px;
+    width: 404px;
+}
+
+.sub1 {
+    border: 1px solid;
+    height: 433px;
+    width: 404px;
 }
