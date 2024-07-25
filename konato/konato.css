@@ -32,6 +32,9 @@ ul {
     border-radius: 4px;
     height: 46px;
     width: 100px;
+    border-color: #BECCD6;
+    background-color: #fff;
+
 }
 
 .btn1 {
@@ -74,6 +77,7 @@ ul {
     color: white;
     padding: 7px;
     border-radius: 8px;
+    height: 40px;
 
 
 }
@@ -81,6 +85,10 @@ ul {
 @media (max-width:950px) {
     .menu {
         display: block;
+        display: block;
+        margin: auto;
+        width: 75%;
+
     }
 
     .bar1 {
@@ -96,6 +104,8 @@ ul {
     border: 1px solid;
     background-color: #ffffff;
     border: none;
+    margin-top: 15px;
+    margin-bottom: -8px;
 
 
 }
@@ -107,19 +117,23 @@ ul {
     border: 1px solid;
     width: 70%;
     border: none;
+
 }
 
 .input {
-    border: 1px solid #5E5E5E;
-    height: 40px;
-    width: 300px;
-    border-radius: 5px;
+    border: 1px solid #BECCD6;
+    height: 41px;
+    width: 450px;
+
+    border-radius: 4px;
 
 }
 
 .input2 {
-    border-color: #ffffff;
+
     background-color: #ffffff;
+    border: none;
+    margin-top: 10px;
 }
 
 .page1 {
@@ -131,6 +145,24 @@ ul {
     background-position: center;
 
 }
+
+.page1_contan {
+    border: 1px solid;
+    height: 250px;
+    width: 464px;
+    margin-top: 103px;
+    margin-left: 63px;
+    text-align: justify;
+}
+
+.head {
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+
+
+}
+
 
 .page2 {
 
